@@ -3,7 +3,7 @@
 A Discord bot that checks views and likes data of KCDF submissions by user command.
 
 How to use:
-1. run python3 renas-bot.py
+1. run python3 renas-bot.py 
 2.To check views/likes of dance1 by dancecrewA: $bot_check: dancecrewA dance1 
 e.g. $bot_check: Haebeat Paint The Town
 (only putting part of dance name is also OK, e.g. $bot_check: Haebeat Paint The, however CASES must be correct)
